@@ -1,0 +1,13 @@
+# Claude Code session data
+.claude/
+
+# Compiled binaries
+*.out
+a.out
+*.exe
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
